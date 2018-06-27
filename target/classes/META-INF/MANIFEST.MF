@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Implementation-Title: StoragePath
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: guoxiaohu
+Implementation-Vendor-Id: com.paratera.sgri
+Class-Path: lib/spring-web-4.3.7.RELEASE.jar lib/spring-aop-4.3.7.RELE
+ ASE.jar lib/spring-beans-4.3.7.RELEASE.jar lib/spring-context-4.3.7.R
+ ELEASE.jar lib/spring-expression-4.3.7.RELEASE.jar lib/spring-core-4.
+ 3.7.RELEASE.jar lib/spring-boot-starter-jdbc-1.5.2.RELEASE.jar lib/sp
+ ring-boot-starter-1.5.2.RELEASE.jar lib/spring-boot-1.5.2.RELEASE.jar
+  lib/spring-boot-autoconfigure-1.5.2.RELEASE.jar lib/spring-boot-star
+ ter-logging-1.5.2.RELEASE.jar lib/logback-classic-1.1.11.jar lib/logb
+ ack-core-1.1.11.jar lib/jcl-over-slf4j-1.7.24.jar lib/jul-to-slf4j-1.
+ 7.24.jar lib/log4j-over-slf4j-1.7.24.jar lib/snakeyaml-1.17.jar lib/t
+ omcat-jdbc-8.5.11.jar lib/tomcat-juli-8.5.11.jar lib/spring-jdbc-4.3.
+ 7.RELEASE.jar lib/spring-tx-4.3.7.RELEASE.jar lib/spring-boot-configu
+ ration-processor-1.5.2.RELEASE.jar lib/android-json-0.0.20131108.vaad
+ in1.jar lib/fastjson-1.2.28.jar lib/druid-1.0.13.jar lib/mysql-connec
+ tor-java-5.1.41.jar lib/commons-lang3-3.5.jar lib/poi-3.15.jar lib/co
+ mmons-collections4-4.1.jar lib/poi-ooxml-3.15.jar lib/poi-ooxml-schem
+ as-3.15.jar lib/xmlbeans-2.6.0.jar lib/stax-api-1.0.1.jar lib/curvesa
+ pi-1.04.jar lib/slf4j-api-1.7.24.jar lib/commons-configuration-1.10.j
+ ar lib/commons-lang-2.6.jar lib/commons-logging-1.1.1.jar lib/commons
+ -codec-1.10.jar
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/StoragePath/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.paratera.sgri.StoragePathApplication
+
